@@ -1,0 +1,3 @@
+﻿Sitemap: https://www.complect.io/sitemap.xml
+
+User-agent: *
