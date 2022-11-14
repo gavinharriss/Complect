@@ -17,6 +17,14 @@
   align-items: center;
 }
 
+.demo-topnav img {
+  margin-right: 2rem;
+}
+
+.demo-topnav-links {
+  margin-left: auto;
+}
+
 .demo-footer {
   padding-top: 5rem;
 }
